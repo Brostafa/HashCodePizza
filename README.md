@@ -14,7 +14,7 @@
 
 #### Installation
 ```bash
-git pull https://github.com/Brostafa/HashCodePizza.git
+git clone https://github.com/Brostafa/HashCodePizza.git
 cd HashCodePizza
 nodemon # start watching index.js for changes
 ```

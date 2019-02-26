@@ -59,7 +59,7 @@ const measureRuntime = func => {
     const runtime = list.getEntries()[0].duration
     
     console.log('==========================================')
-    console.log('Total execution time: \u001b[31m%d ms\u001b[39m', runtime)
+    console.log('Total execution time: \u001b[32m%d ms\u001b[39m', runtime)
     console.log('==========================================')
 
     obs.disconnect()
